@@ -6,7 +6,23 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Jun 2023 14:58:51 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Jun 2023 21:00:14 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WorkPossible</title>
+      <link>/posts/workpossible/</link>
+      <pubDate>Fri, 30 Jun 2023 21:00:14 +0800</pubDate>
+      
+      <guid>/posts/workpossible/</guid>
+      <description>
+        
+          
+            内容配置时我遇到了两个问题：在配置环境时，将hugo文件放入需要管理员权限的文件夹中，运行时无访问权限导致运行失败；创建博客时网页显示404，后在创建时加上文件后缀github.io 
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>MyFirstArticles</title>
       <link>/posts/myfirstarticles/</link>
